@@ -1,9 +1,3 @@
-# github-finder
-
-## How to run
-
-This is javascript code of **github.js**
-```javascript
 class Github {
   constructor() {
     this.client_id = '';
@@ -33,6 +27,3 @@ class Github {
     }
   }
 }
-```
-You should fill out the `client_id` and `clinet_secret` for github-api.
-Check this [document](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to-the-rest-api-with-an-oauth-app)
