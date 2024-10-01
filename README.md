@@ -34,5 +34,5 @@ class Github {
   }
 }
 ```
-You should fill out the `client_id` and `clinet_secret` for github-api.
+You should fill out the `client_id` and `clinet_secret` for github-api \
 Check this [document](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to-the-rest-api-with-an-oauth-app)
